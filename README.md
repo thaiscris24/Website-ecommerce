@@ -1,4 +1,4 @@
-# Sistema cartão de login, criação de login - usuario do cartão, preenche as informações do titular do cartão.
+#Esse é um site em HTML que representa a estrutura de uma página da web.
 
 ## 📷 Telas
 ![image](https://github.com/thaiscris24/Website-ecommerce/assets/114692153/2da8a33f-1ea3-443a-9d2e-8d05e49a5d92)
