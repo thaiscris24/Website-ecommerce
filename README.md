@@ -1,11 +1,7 @@
-# Esse é um site em HTML que representa a estrutura de uma página da web.
+# Relógio Digital DINÂMICO | HTML, CSS e JS.
 
 ## 📷 Telas
-![image](https://github.com/thaiscris24/Website-ecommerce/assets/114692153/2da8a33f-1ea3-443a-9d2e-8d05e49a5d92)
-![image](https://github.com/thaiscris24/Website-ecommerce/assets/114692153/9b231fce-eb2a-4c94-a331-c59f717fe8c2)
-![image](https://github.com/thaiscris24/Website-ecommerce/assets/114692153/48833e15-26cc-4465-8b66-ee3f8313307f)
-![image](https://github.com/thaiscris24/Website-ecommerce/assets/114692153/2726a67d-78fd-431e-9881-fe443db83873)
-![image](https://github.com/thaiscris24/Website-ecommerce/assets/114692153/70bc93b4-6ffa-498b-a0b0-6eede8a817c5)
+![image](https://github.com/thaiscris24/Website-ecommerce/assets/114692153/bb5a1ed1-3e97-4cdc-b598-bb7378f12ee4)
 
 
 ## 🚀 Tecnologias
@@ -13,8 +9,8 @@
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - ✔️ HTML
-
 - ✔️ CSS
+- ✔️ javaScrit
 
 
 # Pré-requisitos
@@ -22,7 +18,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 antes de começar, vocêw vai precisar ter instalado em sua máquina as seguintes ferramentas: [GIT](https://git-scm.com/)e o [VSCode](https://code.visualstudio.com/download).
 
 <h2> Rodando o Sistema Web </h2>
-$ git clone <https://github.com/thaiscris24/Website-ecommerce>
+$ git clone <https://github.com/thaiscris24/Rel-gio-Digital.git>
 
 Após isso você precisa abrir o Visual Studio Code e clicar em 'Open preview' e assim vizualizará o Web site.
 
